@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-    <remote name="TeamWin" fetch="https://github.com/TeamWin/" />
-    <project path="device/asus/grouper" remote="TeamWin" name="android_device_asus_grouper" revision="android-4.4" />
-</manifest>
