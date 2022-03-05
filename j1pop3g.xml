@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="J110H-Android" fetch="https://github.com/J110H-Android/" />
+    <project path="device/samsung/j1pop3g" remote="J110H-Android" name="android_device_samsung_j1pop3g-twrp" revision="android-4.4" />
+</manifest>
